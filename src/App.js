@@ -36,7 +36,7 @@ function App() {
       </div>
       <Switch>
         <Route path="/" exact>
-          <Home lightMode={lightMode}/>
+          <Home lightMode={lightMode} />
         </Route>
         <Route path="/about" component={About} />
         <Route path="/resume" component={Resumes} />

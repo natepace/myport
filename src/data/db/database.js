@@ -2,7 +2,7 @@ import Mock from "../mock";
 
 const database = {
   information: {
-    name: 'Devid Chester',
+    name: 'Nate Pace',
     aboutContent: "I am a frontend web developer. I can provide clean code and pixel perfect design. I also make website more & more interactive with web animations.",
     age: 24,
     phone: '',
