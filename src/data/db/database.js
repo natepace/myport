@@ -4,21 +4,21 @@ const database = {
   information: {
     name: 'Nate Pace',
     aboutContent: "I am a frontend web developer. I can provide clean code and pixel perfect design. I also make website more & more interactive with web animations.",
-    age: 24,
+    age: 25,
     phone: '',
     nationality: 'American',
-    language: 'English, French',
-    email: '',
-    address: '121 King Street, Melbourne, Australia',
+    language: 'English, Spanish',
+    email: 'n8wpace@gmail.com',
+    address: 'New York, open to relocate',
     freelanceStatus: 'Available',
     socialLinks: {
-      facebook: 'https://facebook.com',
-      twitter: 'https://twitter.com',
+      facebook: '',
+      twitter: '',
       pinterest: '',
       behance: '',
-      linkedin: '',
+      linkedin: 'https://www.linkedin.com/in/nate-pace-009733168/',
       dribbble: '',
-      github: 'https://github.com'
+      github: 'https://github.com/natepace'
     },
     brandImage: '/images/brand-image.jpg',
     aboutImage: '/images/about-image.jpg',
@@ -75,11 +75,11 @@ const database = {
     },
     {
       title: "CSS3",
-      value: 90
+      value: 95
     },
     {
       title: "Javascript",
-      value: 70
+      value: 90
     },
     {
       title: "jQuery",
@@ -87,11 +87,11 @@ const database = {
     },
     {
       title: "ReactJS",
-      value: 80
+      value: 95
     },
     {
       title: "Photoshop",
-      value: 65
+      value: 90
     }
   ],
   portfolios: [
