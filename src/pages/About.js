@@ -59,10 +59,10 @@ function About() {
   return (
     <Layout>
       <Helmet>
-        <title>About - Chester React Personal Portfolio Template</title>
+        <title>Nate Pace | About Me</title>
         <meta
           name="description"
-          content="Chester React Personal Portfolio Template About Page"
+          content="Personal Portfolio About Page"
         />
       </Helmet>
       <div className="mi-about-area mi-section mi-padding-top">
@@ -99,8 +99,7 @@ function About() {
                 </h3>
                 <p>
                   I am a frontend web developer. I can provide clean code and
-                  pixel perfect design. I also make website more & more
-                  interactive with web animations.
+                  pixel perfect design.
                 </p>
                 <ul>
                   {!information.name ? null : (

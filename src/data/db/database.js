@@ -3,7 +3,7 @@ import Mock from "../mock";
 const database = {
   information: {
     name: 'Nate Pace',
-    aboutContent: "I am a frontend web developer. I can provide clean code and pixel perfect design. I also make website more & more interactive with web animations.",
+    aboutContent: "I am a frontend web developer. I can provide clean code and pixel perfect design.",
     age: 25,
     phone: '',
     nationality: 'American',
@@ -281,48 +281,36 @@ const database = {
     workingExperience: [
       {
         id: 1,
-        year: "2018 - Present",
-        position: "Frontend Web Developer",
-        company: "Abc Company",
-        details: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quas, magni mollitia, aspernatur consequatur accusamus vero eum facere exercitationem velit suscipit ipsam placeat libero. Deleniti exercitationem nostrum quasi. Molestiae, vel porro."
+        year: "2020 - Present",
+        position: "Freelance Web Developer",
+        company: "Pace Law Firm, Alejandro's Amazon Expeditions",
+        details: "Used ReactJS to to build business websites for a law firm in Salt Lake City and a tour company in Leticia, Colombia."
       },
       {
         id: 2,
-        year: "2016 - 2018",
-        position: "Frontend Web Developer",
-        company: "CBA Company",
-        details: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quas, magni mollitia, aspernatur consequatur accusamus vero eum facere exercitationem velit suscipit ipsam placeat libero. Deleniti exercitationem nostrum quasi. Molestiae, vel porro."
+        year: "2017 - 2020",
+        position: "Editor, Graphic Designer, Web Developer",
+        company: "Tobuscus, YNYT LLC, No BS",
+        details: "Video production and graphic design for youtubers totalling 17 million subscribers and over 4 billion views. Expert in Photoshop and the whole adobe suite including Premiere. Worked on websites using HTML5 as well."
       },
-      {
-        id: 3,
-        year: "2014 - 1016",
-        position: "UI/UX Designer",
-        company: "Example Company",
-        details: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quas, magni mollitia, aspernatur consequatur accusamus vero eum facere exercitationem velit suscipit ipsam placeat libero. Deleniti exercitationem nostrum quasi. Molestiae, vel porro."
-      }
+
     ],
     educationExperience: [
       {
         id: 1,
-        year: "2018 - 2019",
-        graduation: "Master of Science",
-        university: "Abc University",
-        details: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quas, magni mollitia, aspernatur consequatur accusamus vero eum facere exercitationem velit suscipit ipsam placeat libero. Deleniti exercitationem nostrum quasi. Molestiae, vel porro."
+        year: "2020-2021",
+        graduation: "Full Stack Web Development Certificate",
+        university: "Lambda School",
+        details: "6 months and over 1200 hours of coding in a simulated web development work environment."
       },
       {
         id: 2,
-        year: "2016 - 2018",
-        graduation: "Bachelor of Science",
-        university: "Abc University",
-        details: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quas, magni mollitia, aspernatur consequatur accusamus vero eum facere exercitationem velit suscipit ipsam placeat libero. Deleniti exercitationem nostrum quasi. Molestiae, vel porro."
-      },
-      {
-        id: 3,
-        year: "2015 - 2016",
-        graduation: "Higher Schoold Graduation",
-        university: "Abc College",
-        details: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quas, magni mollitia, aspernatur consequatur accusamus vero eum facere exercitationem velit suscipit ipsam placeat libero. Deleniti exercitationem nostrum quasi. Molestiae, vel porro."
+        year: "2017 - 2020",
+        graduation: "Progress towards degrees in Computer Science, Physics",
+        university: "Brigham Young University",
+        details: "After a year of physics I switched into computer science for 2 years. When covid hit I decided to do a coding bootcamp to jumpstart my career, although I plan on finishing a degree."
       }
+
     ]
   },
   blogs: [
