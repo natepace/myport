@@ -45,28 +45,28 @@ const database = {
   reviews: [
     {
       id: 1,
-      content: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Expedita impedit nobis tempore quaerat quibusdam, aliquid maxime tempora.",
+      content: "Be the first to leave a review!.",
       author: {
-        name: 'Burdette Turner',
-        designation: 'Web Developer, Abc Company'
-      }
-    },
-    {
-      id: 2,
-      content: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Expedita impedit nobis tempore quaerat quibusdam.",
-      author: {
-        name: 'Susan Yost',
-        designation: 'Client'
-      }
-    },
-    {
-      id: 3,
-      content: "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
-      author: {
-        name: 'Irving Feeney',
-        designation: 'Fiverr Client'
+        name: 'Nate Pace',
+        designation: ''
       }
     }
+    // {
+    //   id: 2,
+    //   content: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Expedita impedit nobis tempore quaerat quibusdam.",
+    //   author: {
+    //     name: 'Susan Yost',
+    //     designation: 'Client'
+    //   }
+    // },
+    // {
+    //   id: 3,
+    //   content: "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+    //   author: {
+    //     name: 'Irving Feeney',
+    //     designation: 'Fiverr Client'
+    //   }
+    // }
   ],
   skills: [
     {
