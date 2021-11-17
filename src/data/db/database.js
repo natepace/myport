@@ -29,17 +29,17 @@ const database = {
     {
       title: "Web Design",
       icon: 'color-pallet',
-      details: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem tenetur ratione quod."
+      details: "Experienced in graphic design and ux/ui design."
     },
     {
-      title: "Web Development",
+      title: "Front End Development",
       icon: 'code',
-      details: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem tenetur ratione quod."
+      details: "Able to provide sophisticated web applications using ReactJS or other Javascript frameworks/libraries."
     },
     {
-      title: "Mobile Application",
+      title: "Back End Development",
       icon: 'mobile',
-      details: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem tenetur ratione quod."
+      details: "Proficient in making secure backends/APIs using NodeJS, express, and knexJS."
     }
   ],
   reviews: [
@@ -139,36 +139,7 @@ const database = {
       imageUrl: "/images/fitness-app-pic.png",
       largeImageUrl: ["/images/fitness-app-pic.png"],
       url: 'https://anywhere-fitness-rho.vercel.app/'
-    },
-    {
-      id: 5,
-      title: "Mug",
-      subtitle: "Mug with awesome style",
-      imageUrl: "/images/portfolio-image-5.jpg",
-      largeImageUrl: ["/images/portfolio-image-5-lg.jpg"]
-    },
-    {
-      id: 6,
-      title: "Pendrive",
-      subtitle: "Free pendrive mockup design.",
-      imageUrl: "/images/portfolio-image-6.jpg",
-      largeImageUrl: ["/images/portfolio-image-6-lg.jpg"]
-    },
-    {
-      id: 7,
-      title: "Beautiful Pendrive",
-      subtitle: "Pendrive with great design & flexible.",
-      imageUrl: "/images/portfolio-image-7.jpg",
-      largeImageUrl: ["/images/portfolio-image-7-lg.jpg"],
-      url: 'https://twitter.com'
-    },
-    {
-      id: 8,
-      title: "Sticker",
-      subtitle: "Clip sticker mockup design.",
-      imageUrl: "/images/portfolio-image-8.jpg",
-      largeImageUrl: ["/images/portfolio-image-8-lg.jpg"]
-    },
+    }
 
   ],
   experience: {

@@ -169,7 +169,7 @@ function About() {
         </div>
       </div>
       <div className="mi-review-area mi-section mi-padding-top mi-padding-bottom">
-        <div className="container">
+        {/* <div className="container">
           <Sectiontitle title="Reviews" />
           <div className="row justify-content-center">
             <div className="col-12">
@@ -180,7 +180,7 @@ function About() {
               </Slider>
             </div>
           </div>
-        </div>
+        </div> */}
       </div>
     </Layout>
   );
