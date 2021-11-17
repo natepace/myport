@@ -115,9 +115,9 @@ const database = {
       id: 2,
       title: "Pace Law Utah",
       subtitle: "Full stack website of law firm in Salt Lake City.",
-      imageUrl: "/images/pace-law-utah.png",
+      imageUrl: "/images/pace-law-pic.png",
       largeImageUrl: [
-        "/images/pace-law-utah.png"
+        "/images/pace-law-pic.png"
 
       ],
       url: 'https://facebook.com'
