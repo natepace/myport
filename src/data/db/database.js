@@ -79,10 +79,10 @@ const database = {
     },
     {
       title: "Javascript",
-      value: 90
+      value: 95
     },
     {
-      title: "jQuery",
+      title: "NodeJS",
       value: 85
     },
     {
@@ -90,7 +90,15 @@ const database = {
       value: 95
     },
     {
-      title: "Photoshop",
+      title: "Python",
+      value: 95
+    },
+    {
+      title: "PostgreSQL",
+      value: 90
+    },
+    {
+      title: "Redux",
       value: 90
     }
   ],
