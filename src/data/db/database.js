@@ -109,16 +109,16 @@ const database = {
       subtitle: "Uses Chess.Com's API to allow friends to see head to head results.",
       imageUrl: "/images/chess-app-pic.png",
       largeImageUrl: ["/images/chess-app-pic.png"],
-      url: 'https://dribbble.com'
+      url: 'https://chess-new-project.vercel.app/versus'
     },
     {
       id: 2,
-      title: "Coffee Mug",
-      subtitle: "Awesome coffee mug design.",
-      imageUrl: "/images/portfolio-image-4.jpg",
+      title: "Pace Law Utah",
+      subtitle: "Full stack website of law firm in Salt Lake City.",
+      imageUrl: "/images/pace-law-utah.png",
       largeImageUrl: [
-        "/images/portfolio-image-4-lg.jpg",
-        "/images/portfolio-image-4-lg2.jpg"
+        "/images/pace-law-utah.png"
+
       ],
       url: 'https://facebook.com'
     },
